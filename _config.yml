@@ -1,0 +1,21 @@
+# Site settings
+title: Learn Guitar Fast
+header-img: img/home-bg.png
+email: beyercorpuz@gmail.com
+copyright_name: beyercorpuz
+description: > # this means to ignore newlines until "baseurl:"
+  The Right Way
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  beyercorpuz
+learn_profile: beyercorpuz
+email_username: beyercorpuz@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
