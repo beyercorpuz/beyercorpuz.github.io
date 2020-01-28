@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Challenge That Helps The World "
-date:       2020-01-22 21:36:39 +0000
+date:       2020-01-22 16:36:41 -0500
 permalink:  a_challenge_that_helps_the_world
 ---
 
