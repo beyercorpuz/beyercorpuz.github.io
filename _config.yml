@@ -1,15 +1,14 @@
 # Site settings
-title: Learn Guitar Fast
+author: Chris Beyer
+title: Why I decided to learn software engineering
 header-img: img/home-bg.png
 email: beyercorpuz@gmail.com
-copyright_name: beyercorpuz
+copyright_name: Chris Beyer
 description: > # this means to ignore newlines until "baseurl:"
-  The Right Way
+  A labor of love
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: beyermusic
 github_username:  beyercorpuz
-learn_profile: beyercorpuz
-email_username: beyercorpuz@gmail.com
 
 # Build settings
 markdown: kramdown
